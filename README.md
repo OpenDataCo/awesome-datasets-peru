@@ -1,8 +1,6 @@
 # Awesome datasets Peru
 
-
 Lista con informacion sobre datasets, organizaciones, proyectos eventos y herramientas relacionadas con datos en Peru
-
 
 ## Conferencias / Organizaciones
 
